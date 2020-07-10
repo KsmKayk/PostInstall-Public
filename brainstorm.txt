@@ -1,0 +1,17 @@
+vscode - done
+gitkraken - done
+yarn - done
+npx - done
+steam - done
+mongodbcompass - done
+node - done
+ohmyzsh - done
+operagx - done
+change bg
+change theme
+python - done
+pycharm - done
+wine - done
+snapd - done
+spotify - done
+
